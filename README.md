@@ -1,7 +1,7 @@
 # Welcome to GitHub Copilot Fundamentals 101!
 A repository for all things GitHub Copilot Training - Fundamentals 101!
 
-The GitHub Copilot Fundamentals 100 Workshop is designed for developers who want to gain foundational knowledge and practical skills in using GitHub Copilot. 
+The GitHub Copilot Fundamentals 101 Workshop is designed for developers who want to gain foundational knowledge and practical skills in using GitHub Copilot. 
 
 ## Syllabus
 
